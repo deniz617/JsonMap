@@ -57,7 +57,7 @@ std::map<std::string, std::string> JsonMap::jsonToMap(std::string json)
 	return Map;
 }
 
-std::string JsonMap::MapToJson(std::map<std::string, std::string> map)
+std::string JsonMap::mapToJson(std::map<std::string, std::string> map)
 {
 	std::string json = "{";
 
@@ -95,7 +95,7 @@ void JsonMap::Example()
 	JsonMap::MapPrinter(map);
 
 	std::cout << "\nPrinting json string:" << std::endl;
-	std::string res = JsonMap::MapToJson(map);
+	std::string res = JsonMap::mapToJson(map);
 
 	std::cout << res << std::endl;
 }

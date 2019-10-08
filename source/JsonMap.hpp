@@ -10,7 +10,7 @@ namespace JsonMap
 {
 	std::map<std::string, std::string> jsonToMap(std::string json);
 
-	std::string MapToJson(std::map<std::string, std::string> map);
+	std::string mapToJson(std::map<std::string, std::string> map);
 
 	void MapPrinter(std::map<std::string, std::string> map);
 
