@@ -11,7 +11,7 @@ JsonMap is an 'simple' &amp; 'easy to use' open source json converter library.
 
 ## Note
 You have to change your "C++ Language Standart" setting to "ISO C++ 17 Standard"
-<a href="https://ibb.co/d6QKCMW"><img src="https://i.ibb.co/d6QKCMW/jsonmap.png" alt="jsonmap" border="0" /></a>
+Picture about it: <a href="https://ibb.co/d6QKCMW"><img src="https://i.ibb.co/d6QKCMW/jsonmap.png" alt="jsonmap" border="0" /></a>
 
 ## How to use?
 Include <strong>JsonMap.hpp</strong> to your project (you can find it in the source folder).</br> Now link the <strong>JsonMap.lib</strong> file to your project (you can find it in the lib folder or compile it yourself).</br>
