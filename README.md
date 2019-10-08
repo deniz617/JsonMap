@@ -1,7 +1,7 @@
 # JsonMap 
 [![Build status](https://ci.appveyor.com/api/projects/status/hl48yfwqhgmia1xn/branch/master?svg=true)](https://ci.appveyor.com/project/deniz617/jsonmap/branch/master)
 
-JsonMap is a simple &amp; easy to use json to std::map, std::map to json open source library.
+JsonMap is an 'simple' &amp; 'easy to use' open source json converter library.
 
 ## Functions
 <strong>JsonMap::jsonToMap(std::string)</strong>	<-- Converts string to std::map</br>
