@@ -1,5 +1,5 @@
 # JsonMap
-A Simple &amp; easy to use json to std::map, std::map to json open source library.
+JsonMap is a simple &amp; easy to use json to std::map, std::map to json open source library.
 
 ## Functions
 <strong>JsonMap::jsonToMap(std::string)</strong>	<-- Converts string to std::map</br>
