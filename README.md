@@ -1,3 +1,5 @@
+<img src="https://ci.appveyor.com/api/projects/status/32r7s2skrgm9ubva?svg=true" alt="Project Badge" width="300">
+
 # JsonMap
 JsonMap is a simple &amp; easy to use json to std::map, std::map to json open source library.
 
