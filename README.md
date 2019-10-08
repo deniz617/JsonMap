@@ -3,9 +3,9 @@ A Simple &amp; easy to use json to std::map, std::map to json open source librar
 
 ## Functions
 <strong>JsonMap::jsonToMap(std::string)</strong>	<-- Converts string to std::map</br>
-<strong>JsonMap::mapToJson(std::map)</strong>		<-- Converts map to string
+<strong>JsonMap::mapToJson(std::map)</strong>		<-- Converts map to string</br>
 <strong>JsonMap::MapPrinter(std::map)</strong>      	<-- Prints key and values of map in console</br>
-<strong>JsonMap::Example()</strong>			<-- Basic example how to use
+<strong>JsonMap::Example()</strong>			<-- Basic example how to use</br>
 
 ## How to use?
 Include *JsonMap.hpp* to your project, link JsonMap.lib to your project.
