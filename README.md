@@ -1,5 +1,5 @@
 # JsonMap 
-<img src="https://ci.appveyor.com/api/projects/status/github/gruntjs/grunt?branch=master&svg=true" alt="Project Badge" width="100">
+<img src="https://ci.appveyor.com/api/projects/status/github/deniz617/jsonmap?branch=master&svg=true" alt="Project Badge" width="100">
 JsonMap is a simple &amp; easy to use json to std::map, std::map to json open source library.
 
 ## Functions
