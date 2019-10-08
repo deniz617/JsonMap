@@ -1,5 +1,5 @@
 # JsonMap 
-<img src="https://ci.appveyor.com/api/projects/status/github/deniz617/jsonmap?branch=master&svg=true" alt="Project Badge" width="100">
+[![Build status](https://ci.appveyor.com/api/projects/status/hl48yfwqhgmia1xn/branch/master?svg=true)](https://ci.appveyor.com/project/deniz617/jsonmap/branch/master)
 JsonMap is a simple &amp; easy to use json to std::map, std::map to json open source library.
 
 ## Functions
